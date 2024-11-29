@@ -841,3 +841,4 @@ nftset=/firebaselogging-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/firebaseremoteconfig.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/firebaselogging.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/firebaseperusertopics-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/appdistribution.firebase.google.com/4#inet#fw4#vpn_domains
